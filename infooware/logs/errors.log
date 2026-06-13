@@ -1,0 +1,238 @@
+2026-06-10 21:04:56,247 - __main__ - INFO - Starting school data collection workflow...
+2026-06-10 21:04:56,247 - __main__ - INFO - Starting school data collection...
+2026-06-10 21:04:56,247 - __main__ - INFO - Processing location: New York - Upper East Side
+2026-06-10 21:04:56,247 - web_scraper - INFO - Processing The Brearley School
+2026-06-10 21:04:56,247 - web_scraper - INFO - Scraping The Brearley School from https://www.brearley.org
+2026-06-10 21:04:59,719 - web_scraper - INFO - Successfully fetched: https://www.brearley.org
+2026-06-10 21:04:59,826 - web_scraper - INFO - Successfully scraped The Brearley School
+2026-06-10 21:05:00,327 - web_scraper - INFO - Processing Trinity School
+2026-06-10 21:05:00,328 - web_scraper - INFO - Scraping Trinity School from https://www.trinityschoolnyc.org
+2026-06-10 21:05:01,817 - web_scraper - INFO - Successfully fetched: https://www.trinityschoolnyc.org
+2026-06-10 21:05:01,888 - web_scraper - INFO - Successfully scraped Trinity School
+2026-06-10 21:05:02,392 - __main__ - INFO - Collected 2 schools from New York - Upper East Side
+2026-06-10 21:05:02,393 - __main__ - INFO - Validating collected data...
+2026-06-10 21:05:02,394 - __main__ - INFO - Validation complete. 0 records with issues.
+2026-06-10 21:05:02,395 - __main__ - INFO - Deduplicating records...
+2026-06-10 21:05:02,396 - __main__ - INFO - Removed 0 duplicate records. 2 unique records remain.
+2026-06-10 21:05:02,396 - __main__ - INFO - Identifying missing data...
+2026-06-10 21:05:02,397 - __main__ - INFO - Preparing output dataframe...
+2026-06-10 21:05:02,402 - __main__ - INFO - Output dataframe prepared with 2 records
+2026-06-10 21:05:02,402 - __main__ - INFO - Saving output files...
+2026-06-10 21:05:02,412 - __main__ - INFO - Saved school data to C:\Users\Torshi\OneDrive\Desktop\infooware\data\schools.csv
+2026-06-10 21:05:02,412 - __main__ - INFO - No missing data to report
+2026-06-10 21:05:02,412 - __main__ - INFO - ============================================================
+2026-06-10 21:05:02,413 - __main__ - INFO - COLLECTION SUMMARY
+2026-06-10 21:05:02,413 - __main__ - INFO - ============================================================
+2026-06-10 21:05:02,413 - __main__ - INFO - Total schools processed: 2
+2026-06-10 21:05:02,413 - __main__ - INFO - Successfully scraped: 0
+2026-06-10 21:05:02,413 - __main__ - INFO - Records with missing data: 0
+2026-06-10 21:05:02,413 - __main__ - INFO - Duplicates removed: 0
+2026-06-10 21:05:02,414 - __main__ - INFO - Final records in output: 2
+2026-06-10 21:05:02,414 - __main__ - INFO - ============================================================
+2026-06-10 21:05:02,414 - __main__ - INFO - School data collection workflow completed successfully!
+2026-06-10 21:06:40,722 - __main__ - INFO - Starting school data collection workflow...
+2026-06-10 21:06:40,723 - __main__ - INFO - Starting school data collection...
+2026-06-10 21:06:40,723 - __main__ - INFO - Processing location: New York - Upper East Side
+2026-06-10 21:06:40,723 - web_scraper - INFO - Processing The Brearley School
+2026-06-10 21:06:40,723 - web_scraper - INFO - Scraping The Brearley School from https://www.brearley.org
+2026-06-10 21:06:43,188 - web_scraper - INFO - Successfully fetched: https://www.brearley.org
+2026-06-10 21:06:43,294 - web_scraper - INFO - Successfully scraped The Brearley School
+2026-06-10 21:06:43,794 - web_scraper - INFO - Processing Trinity School
+2026-06-10 21:06:43,795 - web_scraper - INFO - Scraping Trinity School from https://www.trinityschoolnyc.org
+2026-06-10 21:06:45,266 - web_scraper - INFO - Successfully fetched: https://www.trinityschoolnyc.org
+2026-06-10 21:06:45,336 - web_scraper - INFO - Successfully scraped Trinity School
+2026-06-10 21:06:45,840 - __main__ - INFO - Collected 2 schools from New York - Upper East Side
+2026-06-10 21:06:45,841 - __main__ - INFO - Validating collected data...
+2026-06-10 21:06:45,844 - __main__ - INFO - Validation complete. 0 records with issues.
+2026-06-10 21:06:45,844 - __main__ - INFO - Deduplicating records...
+2026-06-10 21:06:45,845 - __main__ - INFO - Removed 0 duplicate records. 2 unique records remain.
+2026-06-10 21:06:45,845 - __main__ - INFO - Identifying missing data...
+2026-06-10 21:06:45,845 - __main__ - INFO - Preparing output dataframe...
+2026-06-10 21:06:45,849 - __main__ - INFO - Output dataframe prepared with 2 records
+2026-06-10 21:06:45,849 - __main__ - INFO - Saving output files...
+2026-06-10 21:06:45,851 - __main__ - INFO - Saved school data to C:\Users\Torshi\OneDrive\Desktop\infooware\data\schools.csv
+2026-06-10 21:06:45,852 - __main__ - INFO - No missing data to report
+2026-06-10 21:06:45,852 - __main__ - INFO - ============================================================
+2026-06-10 21:06:45,852 - __main__ - INFO - COLLECTION SUMMARY
+2026-06-10 21:06:45,852 - __main__ - INFO - ============================================================
+2026-06-10 21:06:45,852 - __main__ - INFO - Total schools processed: 2
+2026-06-10 21:06:45,852 - __main__ - INFO - Successfully scraped: 0
+2026-06-10 21:06:45,853 - __main__ - INFO - Records with missing data: 0
+2026-06-10 21:06:45,853 - __main__ - INFO - Duplicates removed: 0
+2026-06-10 21:06:45,853 - __main__ - INFO - Final records in output: 2
+2026-06-10 21:06:45,853 - __main__ - INFO - ============================================================
+2026-06-10 21:06:45,854 - __main__ - INFO - School data collection workflow completed successfully!
+2026-06-10 21:07:51,982 - __main__ - INFO - Starting school data collection workflow...
+2026-06-10 21:07:51,982 - __main__ - INFO - Starting school data collection...
+2026-06-10 21:07:51,982 - __main__ - INFO - Processing location: New York - Upper East Side
+2026-06-10 21:07:51,982 - web_scraper - INFO - Processing The Brearley School
+2026-06-10 21:07:51,983 - web_scraper - INFO - Scraping The Brearley School from https://www.brearley.org
+2026-06-10 21:07:54,454 - web_scraper - INFO - Successfully fetched: https://www.brearley.org
+2026-06-10 21:07:54,553 - web_scraper - INFO - Successfully scraped The Brearley School
+2026-06-10 21:07:55,054 - web_scraper - INFO - Processing Trinity School
+2026-06-10 21:07:55,054 - web_scraper - INFO - Scraping Trinity School from https://www.trinityschoolnyc.org
+2026-06-10 21:07:56,287 - web_scraper - INFO - Successfully fetched: https://www.trinityschoolnyc.org
+2026-06-10 21:07:56,355 - web_scraper - INFO - Successfully scraped Trinity School
+2026-06-10 21:07:56,860 - __main__ - INFO - Collected 2 schools from New York - Upper East Side
+2026-06-10 21:07:56,860 - __main__ - INFO - Validating collected data...
+2026-06-10 21:07:56,861 - __main__ - INFO - Validation complete. 0 records with issues.
+2026-06-10 21:07:56,862 - __main__ - INFO - Deduplicating records...
+2026-06-10 21:07:56,862 - __main__ - INFO - Removed 0 duplicate records. 2 unique records remain.
+2026-06-10 21:07:56,862 - __main__ - INFO - Identifying missing data...
+2026-06-10 21:07:56,862 - __main__ - INFO - Preparing output dataframe...
+2026-06-10 21:07:56,865 - __main__ - INFO - Output dataframe prepared with 2 records
+2026-06-10 21:07:56,866 - __main__ - INFO - Saving output files...
+2026-06-10 21:07:56,870 - __main__ - INFO - Saved school data to C:\Users\Torshi\OneDrive\Desktop\infooware\data\schools.csv
+2026-06-10 21:07:56,871 - __main__ - INFO - No missing data to report
+2026-06-10 21:07:56,871 - __main__ - INFO - ============================================================
+2026-06-10 21:07:56,871 - __main__ - INFO - COLLECTION SUMMARY
+2026-06-10 21:07:56,871 - __main__ - INFO - ============================================================
+2026-06-10 21:07:56,871 - __main__ - INFO - Total schools processed: 2
+2026-06-10 21:07:56,872 - __main__ - INFO - Successfully scraped: 0
+2026-06-10 21:07:56,872 - __main__ - INFO - Records with missing data: 0
+2026-06-10 21:07:56,872 - __main__ - INFO - Duplicates removed: 0
+2026-06-10 21:07:56,872 - __main__ - INFO - Final records in output: 2
+2026-06-10 21:07:56,872 - __main__ - INFO - ============================================================
+2026-06-10 21:07:56,872 - __main__ - INFO - School data collection workflow completed successfully!
+2026-06-10 21:08:20,337 - __main__ - INFO - Starting school data collection workflow...
+2026-06-10 21:08:20,337 - __main__ - INFO - Starting school data collection...
+2026-06-10 21:08:20,337 - __main__ - INFO - Processing location: New York - Upper East Side
+2026-06-10 21:08:20,338 - web_scraper - INFO - Processing The Brearley School
+2026-06-10 21:08:20,338 - web_scraper - INFO - Scraping The Brearley School from https://www.brearley.org
+2026-06-10 21:08:22,724 - web_scraper - INFO - Successfully fetched: https://www.brearley.org
+2026-06-10 21:08:22,828 - web_scraper - INFO - Successfully scraped The Brearley School
+2026-06-10 21:08:23,330 - web_scraper - INFO - Processing Trinity School
+2026-06-10 21:08:23,332 - web_scraper - INFO - Scraping Trinity School from https://www.trinityschoolnyc.org
+2026-06-10 21:08:24,886 - web_scraper - INFO - Successfully fetched: https://www.trinityschoolnyc.org
+2026-06-10 21:08:24,959 - web_scraper - INFO - Successfully scraped Trinity School
+2026-06-10 21:08:25,463 - __main__ - INFO - Collected 2 schools from New York - Upper East Side
+2026-06-10 21:08:25,464 - __main__ - INFO - Validating collected data...
+2026-06-10 21:08:25,465 - __main__ - INFO - Validation complete. 0 records with issues.
+2026-06-10 21:08:25,465 - __main__ - INFO - Deduplicating records...
+2026-06-10 21:08:25,466 - __main__ - INFO - Removed 0 duplicate records. 2 unique records remain.
+2026-06-10 21:08:25,466 - __main__ - INFO - Identifying missing data...
+2026-06-10 21:08:25,466 - __main__ - INFO - Preparing output dataframe...
+2026-06-10 21:08:25,470 - __main__ - INFO - Output dataframe prepared with 2 records
+2026-06-10 21:08:25,470 - __main__ - INFO - Saving output files...
+2026-06-10 21:08:25,475 - __main__ - INFO - Saved school data to C:\Users\Torshi\OneDrive\Desktop\infooware\data\schools.csv
+2026-06-10 21:08:25,475 - __main__ - INFO - No missing data to report
+2026-06-10 21:08:25,475 - __main__ - INFO - ============================================================
+2026-06-10 21:08:25,476 - __main__ - INFO - COLLECTION SUMMARY
+2026-06-10 21:08:25,476 - __main__ - INFO - ============================================================
+2026-06-10 21:08:25,476 - __main__ - INFO - Total schools processed: 2
+2026-06-10 21:08:25,476 - __main__ - INFO - Successfully scraped: 0
+2026-06-10 21:08:25,476 - __main__ - INFO - Records with missing data: 0
+2026-06-10 21:08:25,476 - __main__ - INFO - Duplicates removed: 0
+2026-06-10 21:08:25,477 - __main__ - INFO - Final records in output: 2
+2026-06-10 21:08:25,477 - __main__ - INFO - ============================================================
+2026-06-10 21:08:25,478 - __main__ - INFO - School data collection workflow completed successfully!
+2026-06-10 22:43:54,559 - __main__ - INFO - Starting school data collection workflow...
+2026-06-10 22:43:54,560 - __main__ - INFO - Starting school data collection...
+2026-06-10 22:43:54,561 - __main__ - INFO - Processing location: New York - Upper East Side
+2026-06-10 22:43:54,561 - web_scraper - INFO - Processing The Brearley School
+2026-06-10 22:43:54,561 - web_scraper - INFO - Scraping The Brearley School from https://www.brearley.org
+2026-06-10 22:43:57,433 - web_scraper - INFO - Successfully fetched: https://www.brearley.org
+2026-06-10 22:43:57,562 - web_scraper - INFO - Successfully scraped The Brearley School
+2026-06-10 22:43:58,063 - web_scraper - INFO - Processing Trinity School
+2026-06-10 22:43:58,063 - web_scraper - INFO - Scraping Trinity School from https://www.trinityschoolnyc.org
+2026-06-10 22:43:59,791 - web_scraper - INFO - Successfully fetched: https://www.trinityschoolnyc.org
+2026-06-10 22:43:59,891 - web_scraper - INFO - Successfully scraped Trinity School
+2026-06-10 22:44:00,396 - __main__ - INFO - Collected 2 schools from New York - Upper East Side
+2026-06-10 22:44:00,399 - __main__ - INFO - Validating collected data...
+2026-06-10 22:44:00,400 - __main__ - INFO - Validation complete. 0 records with issues.
+2026-06-10 22:44:00,401 - __main__ - INFO - Deduplicating records...
+2026-06-10 22:44:00,402 - __main__ - INFO - Removed 0 duplicate records. 2 unique records remain.
+2026-06-10 22:44:00,402 - __main__ - INFO - Identifying missing data...
+2026-06-10 22:44:00,402 - validators - WARNING - Missing field 'address' for Trinity School: Not found during web scraping
+2026-06-10 22:44:00,403 - __main__ - INFO - Preparing output dataframe...
+2026-06-10 22:44:00,431 - __main__ - INFO - Output dataframe prepared with 2 records
+2026-06-10 22:44:00,431 - __main__ - INFO - Saving output files...
+2026-06-10 22:44:00,435 - __main__ - INFO - Saved school data to C:\Users\Torshi\OneDrive\Desktop\infooware\data\schools.csv
+2026-06-10 22:44:00,437 - __main__ - INFO - Saved missing data report to C:\Users\Torshi\OneDrive\Desktop\infooware\data\missing_data_report.csv
+2026-06-10 22:44:00,438 - __main__ - INFO - ============================================================
+2026-06-10 22:44:00,438 - __main__ - INFO - COLLECTION SUMMARY
+2026-06-10 22:44:00,438 - __main__ - INFO - ============================================================
+2026-06-10 22:44:00,438 - __main__ - INFO - Total schools processed: 2
+2026-06-10 22:44:00,439 - __main__ - INFO - Successfully scraped: 0
+2026-06-10 22:44:00,439 - __main__ - INFO - Records with missing data: 0
+2026-06-10 22:44:00,439 - __main__ - INFO - Duplicates removed: 0
+2026-06-10 22:44:00,439 - __main__ - INFO - Final records in output: 2
+2026-06-10 22:44:00,439 - __main__ - INFO - ============================================================
+2026-06-10 22:44:00,439 - __main__ - INFO - School data collection workflow completed successfully!
+2026-06-11 03:32:57,968 - __main__ - INFO - Starting school data collection...
+2026-06-11 03:32:57,969 - __main__ - INFO - Processing location: Upper East Side
+2026-06-11 03:32:57,969 - scraper - INFO - Fetching public schools for ZIPs: ['10021', '10028', '10044', '10065', '10075', '10128']
+2026-06-11 03:33:08,959 - scraper - ERROR - Exception for public schools 10021: HTTPSConnectionPool(host='data.cityofnewyork.us', port=443): Read timed out. (read timeout=10)
+2026-06-11 03:33:17,067 - scraper - INFO - Found 0 public schools in 10028
+2026-06-11 03:33:19,161 - scraper - INFO - Found 0 public schools in 10044
+2026-06-11 03:33:20,872 - scraper - INFO - Found 3 public schools in 10065
+2026-06-11 03:33:22,198 - scraper - INFO - Found 0 public schools in 10075
+2026-06-11 03:33:23,837 - scraper - INFO - Found 1 public schools in 10128
+2026-06-11 03:33:23,837 - scraper - INFO - Fetching non-public schools for ZIPs: ['10021', '10028', '10044', '10065', '10075', '10128']
+2026-06-11 03:33:25,121 - scraper - ERROR - Error fetching non-public schools for 10021: 404
+2026-06-11 03:33:26,364 - scraper - ERROR - Error fetching non-public schools for 10028: 404
+2026-06-11 03:33:27,604 - scraper - ERROR - Error fetching non-public schools for 10044: 404
+2026-06-11 03:33:28,840 - scraper - ERROR - Error fetching non-public schools for 10065: 404
+2026-06-11 03:33:30,083 - scraper - ERROR - Error fetching non-public schools for 10075: 404
+2026-06-11 03:33:31,311 - scraper - ERROR - Error fetching non-public schools for 10128: 404
+2026-06-11 03:33:31,313 - __main__ - INFO - Discovered 4 schools in Upper East Side
+2026-06-11 03:33:31,313 - __main__ - INFO - Processing location: Upper West Side
+2026-06-11 03:33:31,313 - scraper - INFO - Fetching public schools for ZIPs: ['10023', '10024', '10025']
+2026-06-11 03:33:32,763 - scraper - INFO - Found 8 public schools in 10023
+2026-06-11 03:33:34,104 - scraper - INFO - Found 3 public schools in 10024
+2026-06-11 03:33:36,004 - scraper - INFO - Found 0 public schools in 10025
+2026-06-11 03:33:36,006 - scraper - INFO - Fetching non-public schools for ZIPs: ['10023', '10024', '10025']
+2026-06-11 03:33:37,343 - scraper - ERROR - Error fetching non-public schools for 10023: 404
+2026-06-11 03:33:39,229 - scraper - ERROR - Error fetching non-public schools for 10024: 404
+2026-06-11 03:33:41,365 - scraper - ERROR - Error fetching non-public schools for 10025: 404
+2026-06-11 03:33:41,366 - __main__ - INFO - Discovered 11 schools in Upper West Side
+2026-06-11 03:33:41,367 - __main__ - INFO - Validating and cleaning collected data...
+2026-06-11 03:33:41,368 - __main__ - INFO - Deduplicating records...
+2026-06-11 03:33:41,368 - __main__ - INFO - Removed 0 duplicate records.
+2026-06-11 03:33:41,368 - __main__ - INFO - Saving output files...
+2026-06-11 03:33:41,384 - __main__ - INFO - ==============================
+2026-06-11 03:33:41,385 - __main__ - INFO - EXECUTION SUMMARY
+2026-06-11 03:33:41,385 - __main__ - INFO - Total Discovered: 15
+2026-06-11 03:33:41,385 - __main__ - INFO - Duplicates Removed: 0
+2026-06-11 03:33:41,385 - __main__ - INFO - Final Records: 15
+2026-06-11 03:33:41,386 - __main__ - INFO - Records with Issues: 0
+2026-06-11 03:33:41,386 - __main__ - INFO - ==============================
+2026-06-13 12:12:05,721 - __main__ - INFO - Starting school data collection...
+2026-06-13 12:12:05,722 - __main__ - INFO - Added 2 mandatory configured schools.
+2026-06-13 12:12:05,722 - __main__ - INFO - Processing location: Upper East Side
+2026-06-13 12:12:05,723 - scraper - INFO - Fetching public schools for ZIPs: ['10021', '10028', '10044', '10065', '10075', '10128']
+2026-06-13 12:12:16,928 - scraper - ERROR - Exception for public schools 10021: HTTPSConnectionPool(host='data.cityofnewyork.us', port=443): Read timed out. (read timeout=10)
+2026-06-13 12:12:20,380 - scraper - INFO - Found 0 public schools in 10028
+2026-06-13 12:12:32,062 - scraper - ERROR - Exception for public schools 10044: HTTPSConnectionPool(host='data.cityofnewyork.us', port=443): Read timed out. (read timeout=10)
+2026-06-13 12:12:34,163 - scraper - INFO - Found 3 public schools in 10065
+2026-06-13 12:12:37,598 - scraper - INFO - Found 0 public schools in 10075
+2026-06-13 12:12:39,838 - scraper - INFO - Found 1 public schools in 10128
+2026-06-13 12:12:39,840 - scraper - INFO - Fetching non-public schools for ZIPs: ['10021', '10028', '10044', '10065', '10075', '10128']
+2026-06-13 12:12:42,396 - scraper - ERROR - Error fetching non-public schools for 10021: 404
+2026-06-13 12:12:44,858 - scraper - ERROR - Error fetching non-public schools for 10028: 404
+2026-06-13 12:12:47,517 - scraper - ERROR - Error fetching non-public schools for 10044: 404
+2026-06-13 12:12:49,872 - scraper - ERROR - Error fetching non-public schools for 10065: 404
+2026-06-13 12:12:52,432 - scraper - ERROR - Error fetching non-public schools for 10075: 404
+2026-06-13 12:12:54,783 - scraper - ERROR - Error fetching non-public schools for 10128: 404
+2026-06-13 12:12:54,785 - __main__ - INFO - Discovered 4 schools in Upper East Side
+2026-06-13 12:12:54,785 - __main__ - INFO - Processing location: Upper West Side
+2026-06-13 12:12:54,786 - scraper - INFO - Fetching public schools for ZIPs: ['10023', '10024', '10025']
+2026-06-13 12:12:59,195 - scraper - INFO - Found 8 public schools in 10023
+2026-06-13 12:13:01,552 - scraper - INFO - Found 3 public schools in 10024
+2026-06-13 12:13:03,591 - scraper - INFO - Found 0 public schools in 10025
+2026-06-13 12:13:03,594 - scraper - INFO - Fetching non-public schools for ZIPs: ['10023', '10024', '10025']
+2026-06-13 12:13:05,434 - scraper - ERROR - Error fetching non-public schools for 10023: 404
+2026-06-13 12:13:07,390 - scraper - ERROR - Error fetching non-public schools for 10024: 404
+2026-06-13 12:13:09,328 - scraper - ERROR - Error fetching non-public schools for 10025: 404
+2026-06-13 12:13:09,333 - __main__ - INFO - Discovered 11 schools in Upper West Side
+2026-06-13 12:13:09,334 - __main__ - INFO - Validating and cleaning collected data...
+2026-06-13 12:13:09,336 - __main__ - INFO - Deduplicating records...
+2026-06-13 12:13:09,337 - __main__ - INFO - Removed 0 duplicate records.
+2026-06-13 12:13:09,338 - __main__ - INFO - Saving output files...
+2026-06-13 12:13:09,404 - __main__ - INFO - ==============================
+2026-06-13 12:13:09,405 - __main__ - INFO - EXECUTION SUMMARY
+2026-06-13 12:13:09,406 - __main__ - INFO - Total Discovered: 17
+2026-06-13 12:13:09,407 - __main__ - INFO - Duplicates Removed: 0
+2026-06-13 12:13:09,408 - __main__ - INFO - Final Records: 17
+2026-06-13 12:13:09,408 - __main__ - INFO - Records with Issues: 0
+2026-06-13 12:13:09,409 - __main__ - INFO - ==============================

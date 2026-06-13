@@ -1,0 +1,9 @@
+Location Name,School Name,Missing Field(s),Reason  
+Upper East Side,Public School API (ZIP 10021),ALL FIELDS,HTTPS Read Timeout (10s)  
+Upper East Side,Public School API (ZIP 10044),ALL FIELDS,HTTPS Read Timeout (10s)  
+Upper East Side,Non-Public Schools API (All ZIPs),ALL FIELDS,API Endpoint Returned 404  
+Upper West Side,Non-Public Schools API (All ZIPs),ALL FIELDS,API Endpoint Returned 404  
+Upper East Side (ZIP 10028),ALL SCHOOLS,ALL FIELDS,No schools matching the criteria identified  
+Upper East Side (ZIP 10075),ALL SCHOOLS,ALL FIELDS,No schools matching the criteria identified  
+Upper West Side (ZIP 10025),ALL SCHOOLS,ALL FIELDS,No schools matching the criteria identified  
+Trinity School,Trinity School,address,Not found during automated web scraping 

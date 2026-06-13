@@ -1,0 +1,211 @@
+Objective  
+The  objective  of  this  assignment  is  to  collect  comprehensive  school  information  from  all  
+locations
+ 
+provided
+ 
+and
+ 
+organize
+ 
+the
+ 
+data
+ 
+according
+ 
+to
+ 
+the
+ 
+supplied
+ 
+template
+ 
+and
+ 
+sample
+ 
+dataset.
+ 
+The  entire  process  must  be  performed  through  automated  data  collection  and  processing  
+workflows.
+ 
+Manual
+ 
+data
+ 
+collection
+ 
+should
+ 
+only
+ 
+be
+ 
+used
+ 
+for
+ 
+validation
+ 
+and
+ 
+quality
+ 
+assurance
+ 
+purposes
+ 
+where
+ 
+necessary.
+ 
+The  final  output  must  match  the  structure,  formatting,  and  data  standards  demonstrated  in  the  
+provided
+ 
+sample
+ 
+data.
+ 
+ 
+Resources  
+1.  Location  List    
+School  city  category  website  description  
+verification_status  address  phone  
+The  Brearley  School  New  York  
+Private  Schools  brearley.org 
+All-girls  K–12  on  the  Upper  East  Side;  consistently  ranked  among  NYC's  most  academically  rigorous  independent  schools  with  exceptional  Ivy  League  placement.  Verified  
+610  East  83rd  Street,  New  York,  NY  10028  
+(212)  744-8582  
+Trinity  School  New  York  
+Private  Schools  
+trinityschoolnyc.org 
+Founded  1709;  one  of  the  oldest  schools  in  the  US;  Episcopal  day  school  K–12  on  the  Upper  West  Side;  100%  of  seniors  matriculate  to  four-year  colleges;  renowned  Classics  programme.  Verified  
+139  West  91st  Street,  New  York,  NY  10024  
+(212)  873-1650   
+ 
+2.  Sample  Template  List  (  will  be  shared)  
+https://docs.google.com/document/d/1w33VZjkKBvI4Zy-xix2dZy4TmXRdkU4oR6H6pqH1jnI/edit?tab=t.0 
+ 
+Assignment  Scope  
+You  are  required  to  process  every  location  listed  in  the  Location  Sheet.  
+For  each  location:  
+●  Identify  all  applicable  schools  within  the  specified  area.  ●  Collect  all  required  school  information  fields.  ●  Verify  information  using  reliable  and  publicly  available  sources.  ●  Format  the  collected  data  according  to  the  provided  template.  ●  Ensure  consistency  with  the  sample  dataset.  
+This  assignment  requires  complete  data  collection  coverage.  Partial  completion  of  locations  or  
+selective
+ 
+collection
+ 
+of
+ 
+schools
+ 
+is
+ 
+not
+ 
+acceptable
+ 
+unless
+ 
+explicitly
+ 
+approved.
+ 
+ 
+Data  Collection  Requirements  
+School  Discovery  
+For  each  assigned  location:  
+●  Identify  all  schools  relevant  to  the  scope  of  the  project.  ●  Ensure  schools  belong  to  the  correct  location.  ●  Avoid  duplicate  school  records.  ●  Verify  school  existence  through  reliable  sources.  
+Data  Collection  
+Collect  all  fields  required  by  the  provided  template.  
+Requirements  
+●  Populate  every  mandatory  field.  ●  Ensure  information  is  current  and  accurate.  ●  Follow  the  same  data  formatting  standards  used  in  the  sample  dataset.  ●  Preserve  naming  consistency  across  all  records.  ●  Standardize  phone  numbers,  websites,  addresses,  and  other  structured  fields  where  
+applicable.
+ 
+Important  
+The  sample  data  provided  should  be  treated  as  the  formatting  standard  for  this  project.  
+All  newly  collected  records  must  follow  the  same  structure,  formatting  conventions,  and  data  
+presentation
+ 
+style
+ 
+as
+ 
+the
+ 
+sample
+ 
+data.
+ 
+ 
+Data  Formatting  Requirements  
+The  final  spreadsheet  must  match  the  provided  template  exactly.  
+Mandatory  Rules  
+●  Do  not  rename  columns.  ●  Do  not  reorder  columns.  ●  Do  not  add  extra  columns.  
+●  Do  not  remove  existing  columns.  ●  Do  not  modify  worksheet  names  unless  instructed.  ●  Preserve  formatting  consistency  throughout  the  file.  
+All  populated  records  must  align  with  the  sample  dataset  format  attached  with  this  assignment.  
+ 
+Automation  Requirements  
+This  project  is  intended  to  be  completed  using  automated  data  collection  methods.  
+Mandatory  Requirements  
+●  Use  scripts  and  automation  wherever  possible.  ●  Build  reusable  extraction  workflows.  ●  Design  the  solution  so  it  can  process  multiple  locations  efficiently.  ●  Minimize  manual  intervention.  ●  Ensure  repeatable  and  scalable  processing.  
+ 
+Code  Quality  Requirements  
+The  implementation  should  follow  professional  software  development  standards.  
+Expectations  
+●  Clean  and  maintainable  code  ●  Modular  architecture  ●  Proper  configuration  management  ●  Error  handling  and  retry  mechanisms  ●  Logging  for  failures  and  skipped  records  ●  Documentation  for  setup  and  execution  
+ 
+Data  Validation  Requirements  
+Before  submission,  validate  the  following:  
+Accuracy  Validation  
+●  School  name  is  correct  ●  Address  is  correct  ●  Website  is  valid  ●  Contact  information  is  accurate  ●  Location  mapping  is  correct  
+Duplicate  Validation  
+●  No  duplicate  schools  ●  No  duplicate  records  ●  No  duplicate  contact  information  caused  by  processing  errors  
+Completeness  Validation  
+●  Mandatory  fields  are  populated  ●  Required  locations  are  fully  processed  ●  Data  aligns  with  template  requirements  
+ 
+Coverage  Requirements  
+This  assignment  requires  full  coverage  of  all  list  of  schools  provided.  
+Expectations  
+●  Process  every  assigned  location.  ●  Collect  all  schools  that  meet  the  project  criteria.  ●  Do  not  submit  partial  datasets  without  prior  approval.  ●  Clearly  report  any  locations  where  information  could  not  be  found.  
+If  information  is  unavailable  for  a  school,  document  the  reason  rather  than  leaving  unexplained  
+gaps.
+ 
+ 
+Source  Control  Requirements  
+All  code  must  be  maintained  in  Git.  
+Requirements  
+●  Push  source  code  to  a  public  GitHub  repository.  ●  Share  the  repository  URL  upon  completion.  ●  Include  setup  instructions  in  the  README.  ●  Include  execution  instructions.  ●  Include  dependency  information.  ●  Use  meaningful  commit  messages  throughout  development.  
+ 
+Deliverables  
+1.  Completed  Spreadsheet  
+Provide  a  completed  copy  of  the  template  populated  with  all  collected  school  data.  
+Do  not  modify  the  original  template.  
+2.  Source  Code  Repository  
+Provide:  
+●  Public  GitHub  repository  URL  ●  Complete  source  code  ●  Documentation  ●  Execution  instructions  
+3.  Missing  Data  Report  
+Provide  a  separate  sheet  or  report  containing:  
+Schools  Not  Found  
+Locations  where  no  schools  matching  the  criteria  could  be  identified.  
+Missing  Information  
+Schools  where  certain  fields  could  not  be  verified.  
+Processing  Errors  
+Records  that  could  not  be  processed  due  to  technical  issues.  
+Include:  
+●  Location  Name  ●  School  Name  ●  Missing  Field(s)  ●  Reason  
+ 
+Quality  Standards  
+The  following  standards  are  mandatory:  
+●  No  fabricated  data.  ●  No  estimated  values.  ●  No  guessed  contact  information.  ●  No  guessed  website  URLs.  ●  Data  must  be  sourced  and  verifiable.  ●  Formatting  must  remain  consistent  across  the  entire  dataset.  ●  Final  output  must  match  the  provided  template  structure  exactly.  ●  Final  output  must  follow  the  same  formatting  conventions  as  the  attached  sample  
+dataset.
+ 
+Accuracy,  completeness,  and  consistency  are  the  primary  success  criteria  for  this  assignment.  
+ 
+Submission  Checklist  
+Before  submission,  verify:  
+●  All  locations  have  been  processed.  ●  All  schools  have  been  collected.  ●  Mandatory  fields  are  populated.  ●  Formatting  matches  the  template.  ●  Formatting  matches  the  sample  dataset.  ●  Duplicate  records  have  been  removed.  ●  Validation  checks  have  been  completed.  ●  GitHub  repository  has  been  shared.  ●  Missing  data  report  has  been  included.  
+Only  submit  after  completing  the  above  verification  steps.  
+  
